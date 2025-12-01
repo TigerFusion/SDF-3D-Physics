@@ -5,6 +5,8 @@ Physics Approach: Use two SDFs to generate the Minkowski Sum and find a contact.
 
 Graphics Approach: The leftmost shape is the Minkowski Sum which is used for the collision detection. The middle shape is the outer graphics shape and the rightmost shape is the center graphics shape that does not move. The outer and center shapes have white wire spheres to show the radius that generates the contacts.
 
+You can try it here: https://tigerfusion.github.io/SDF-3D-Physics/
+
 Keyboard Commands:<br>
 ArrowUp = forward motion of the middle shape<br>
 ArrowDown = reverse motion of the middle shape<br>
