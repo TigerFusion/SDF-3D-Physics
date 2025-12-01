@@ -7,7 +7,7 @@ Graphics Approach: The leftmost shape is the Minkowski Sum which is used for the
 
 You can try it here: https://tigerfusion.github.io/SDF-3D-Physics/
 
-Keyboard Commands:<br>
+Key Commands:<br>
 ArrowUp = forward motion of the middle shape<br>
 ArrowDown = reverse motion of the middle shape<br>
 ArrowLeft = left turn of the middle shape<br>
