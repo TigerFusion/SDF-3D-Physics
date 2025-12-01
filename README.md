@@ -20,7 +20,6 @@ The Good Stuff:
 1) Does not use gradient descent to find the contacts.
 2) This example should work with convex and concave SDFs.
 3) Uses IQ’s SDF gradient box (https://iquilezles.org/articles/distgradfunctions3d/).
-4) Since each collision must have at least one sphere there will only be one contact point.
 
 The Bad Stuff:
 1) Flat shapes like boxes do not work as well (any ideas would be appreciated).
